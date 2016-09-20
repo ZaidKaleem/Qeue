@@ -1,6 +1,6 @@
 # Queue
 
-Qeue is an app that tells you how many people are currently using the athletic facilities at your college/university. This app was developed at the RevolutionUC 15' hackathon.
+Queue is an app that tells you how many people are currently using the athletic facilities at your college/university. This app was developed at the RevolutionUC 15' hackathon.
 
 <h3>Tools Used</h3>
 <ul>
